@@ -1,8 +1,6 @@
 # Elevate-Labs2-_-Task1
 Understanding Cyber Security Basics &amp; Attack Surface
 
-# Elevate Labs – Task 1
-
 ## Task Title
 Understanding Cyber Security Basics & Attack Surface
 
